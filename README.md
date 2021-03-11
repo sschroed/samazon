@@ -20,6 +20,8 @@ Test projects for learning AWS services.
 * Route 53 - Domains
 * Route 53 - Hosted Zones 
 
+[AWS Docs to transfer in a domain name](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-to-route-53.html)
+
 ### WordPress Hosting
 
 * Route 53 - Hosted Zones
