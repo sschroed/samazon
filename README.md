@@ -4,9 +4,14 @@ Test projects for learning AWS services.
 
 ## AWS Services Used ##
 
+### EC2 ###
+
+* On-demand Instances
+* Security Groups 
+
 ### LightSail ###
 
-* WordPress instance.
+* WordPress instance
 
 ### Route 53 ###
 
