@@ -6,6 +6,7 @@ Test projects for learning AWS services.
 
 ### EC2 ###
 
+* Classing Load Balancers
 * Elastic Network Interfaces
 * On-demand Instances
 * Security Groups 
