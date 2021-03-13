@@ -12,6 +12,7 @@ Test projects for learning AWS services.
 * On-demand Instances
 * Network Load Balancers
 * Security Groups 
+* Target Groups
 
 ### LightSail ###
 
