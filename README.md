@@ -10,6 +10,7 @@ Test projects for learning AWS services.
 * Classing Load Balancers
 * Elastic Network Interfaces
 * On-demand Instances
+* Network Load Balancers
 * Security Groups 
 
 ### LightSail ###
