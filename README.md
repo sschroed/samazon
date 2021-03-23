@@ -19,7 +19,7 @@ Notes and test projects forlearning AWS services.
 #### EC2 Storage ####
 
 * Elastic Block Store
-** Local Instance Store
+	* Local Instance Store
 
 ### LightSail ###
 
