@@ -1,8 +1,10 @@
 # Samazon #
 
-Test projects for learning AWS services.
+Notes and test projects forlearning AWS services.
 
 ## AWS Services Used ##
+
+
 
 ### EC2 ###
 
@@ -13,6 +15,10 @@ Test projects for learning AWS services.
 * Network Load Balancers
 * Security Groups 
 * Target Groups
+
+#### EC2 Storage ####
+
+* Elastic Block Store
 
 ### LightSail ###
 
